@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.gitignore$
+^\.travis.yml$
+
+DocumentationPeek.pdf
+DocumentationForDevelopers/
+Playgrounds/
+UtilityScripts/
+^\.travis\.yml$
